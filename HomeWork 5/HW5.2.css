@@ -11,8 +11,8 @@ main{
 .box-1{
     width: 319px;
     height: 492px;
-    border: 5px solid gray;
-    background-color: white;
+    border: 4px solid #65856E;
+    background: rgba(217, 217, 217, 0.30);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -22,8 +22,8 @@ main{
 .box-2{
     width: 321px;
     height: 491px;
-    border: 5px solid gray;
-    background-color: white;
+    border: 4px solid #65856E;
+    background: rgba(217, 217, 217, 0.30);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -33,8 +33,8 @@ main{
 .box-3{
     width: 321px;
     height: 491px;
-    border: 5px solid gray;
-    background-color: white;
+    border: 4px solid #65856E;
+    background: rgba(217, 217, 217, 0.30);
     display: flex;
     justify-content: center;
     align-items: center;

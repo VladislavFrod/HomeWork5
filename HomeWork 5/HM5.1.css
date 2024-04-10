@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+}
+.box{
+    display: flex;
+}
+ol.list-1 li:nth-child(even) {
+    color: deeppink;
+}
+ol.list-2 li:nth-child(odd){
+    font-size: 22px;
+}
+ol.list-3 li:nth-child(2n+4)::after{
+    content:"!";
+}
+ol.list-4 li:nth-child(13){
+    color: purple;
+}
+ol.list-5 li::first-letter{
+    color: red;
+    font-size: 30px;
+}
